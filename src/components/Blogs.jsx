@@ -8,7 +8,7 @@ const Blogs = () => {
 
 
     return (
-        <div className='w-11/12 h-screen max-w-[630px] py-8 flex flex-col justify-center items-center gap-y-7 mt-16 mb-16'>
+        <div className='w-11/12 h-full max-w-[630px] py-8 flex flex-col justify-center items-center gap-y-7 mt-12 mb-10'>
             {
                 loading ?
 
